@@ -1,5 +1,5 @@
 Date,Model,Production Rate,Defects,Finished Goods,Total Production,Total Defects,Products Reworked,Demand,Actual Demand
-2/1/2021,1Hp Monoblock,30,6,24,30,6,6,1095,1125
+2/1/2021,1Hp Monoblock,30,6,24,30,6,6,1095,1100
 2/2/2021,1Hp Monoblock,35,4,31,65,10,10,1060,1125
 2/3/2021,1Hp Monoblock,32,5,27,97,15,15,1028,1125
 2/4/2021,1Hp Monoblock,31,4,27,128,19,19,997,1125
